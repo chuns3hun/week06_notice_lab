@@ -86,4 +86,5 @@ flutter run -d chrome
 
 - GitHub 저장소: https://github.com/chuns3hun/week06_notice_lab
 - 주요 구현 파일: `lib/main.dart`
-- 최종 제출 커밋: 실제 제출할 커밋 ID를 확인하여 기재
+- 최종 제출 커밋: c19c5e0
+ 
